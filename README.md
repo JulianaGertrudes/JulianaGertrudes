@@ -1,14 +1,14 @@
-## Bem vind@ ✨
+## Welcome ✨
 
-》🏠 Moradora do extremo leste de SP
+》🏠 From São Paulo, Brazil.
 
-》📚 Graduanda em Analise e Desenvolvimento de Sistemas pela USTJ.
+》📚 Systems analysis and Development College Student @ University São Judas Tadeu 
 
-》⚙️ Tecnica em Automação Industrial pelo Instituto Federal, onde iniciei minha jornada em tecnologia.
+》⚙️ Industrial Automation Technician @ Instituo Federal , where i have started my technology carrer.
 
-》💗 Amante de Tecnologia, cinema e música. Não dispenso um bom filme de terror e albuns de música brasileira.
+》💗 Film and music lover. I'm into horror movies and brazilian rap album's
 
-Estou trilhando para desenvolvimento e analise de dados focada nas seguintes linguagens:
+I'm walking my journey on back end development and data analytics based on this languages:
 <div style= "display: inline">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -16,6 +16,6 @@ Estou trilhando para desenvolvimento e analise de dados focada nas seguintes lin
 
 <div>
 
-Você pode conhecer mais sobre minha carreira profissional e projetos acessando abaixo. Conexões novas são sempre bem vindas!
+You can know more about my professional carrer and projects by clicking on the button below. New connections are always welcome!
 
-<a href="www.linkedin.com/in/juliana-gertrudes-1a68a321b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>       
+<a href="http://www.linkedin.com/in/juliana-gertrudes-1a68a321b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>       

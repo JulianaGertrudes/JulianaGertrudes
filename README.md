@@ -4,7 +4,7 @@
 
 》📚 Systems Analysis and Development College Student @ University São Judas Tadeu 
 
-》⚙️ Industrial Automation Technician @ Instituo Federal , where i have started my technology carrer.
+》⚙️ Industrial Automation Technician @ Instituto Federal , where i have started my technology carrer.
 
 》💗 Film and music lover. I'm into horror movies and Brazilian rap album's
 

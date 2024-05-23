@@ -13,4 +13,4 @@ Estou focada nas seguintes linguagens:
 
 Você pode conhecer mais sobre minha carreira profissional e projetos acessando abaixo. Conexões novas são sempre bem vindas!
 
-<a href="www.linkedin.com/in/juliana-gertrudes-1a68a321b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>       
+<a href="www.linkedin.com/in/juliana-gertrudes-1a68a321b"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>       

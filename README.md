@@ -6,14 +6,15 @@
 
 》⚙️ Industrial Automation Technician @ Instituto Federal , where i have started my technology carrer.
 
-》💗 Film and music lover. I'm into horror movies and Brazilian rap album's
+》💗 Film and music lover. I'm into horror movies and rap album's
 
 I'm walking my journey on and data engineer based on this languages:
 <div style= "display: inline">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
-<img width='50' heigth='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+          
                 
 <div>
 

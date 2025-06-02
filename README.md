@@ -6,8 +6,6 @@
 
 》📚 Data Intern @ B3 - Brasil, Bolsa e Balcão. 
 
-》💗 Film and music lover. I'm into horror movies and rap album's
-
 I'm walking my journey on data engineer based on this languages:
 <div style= "display: inline">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />

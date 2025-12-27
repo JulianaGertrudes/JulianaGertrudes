@@ -2,9 +2,9 @@
 
 》🏠 From São Paulo, Brazil.
 
-》Software Engineer @ B3 - Brazilian Stock Exchange
+》👩‍💻 Software Engineer @ B3 - Brazilian Stock Exchange
 
-I'm walking my journey based on this languages:
+I'm walking my journey based on this skills
 <div style= "display: inline">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />

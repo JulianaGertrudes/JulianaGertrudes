@@ -2,11 +2,9 @@
 
 》🏠 From São Paulo, Brazil.
 
-》📚 Systems Analysis and Development College Student @ University São Judas Tadeu 
+》Software Engineer @ B3 - Brazilian Stock Exchange
 
-》📚 Data Intern @ B3 - Brasil, Bolsa e Balcão. 
-
-I'm walking my journey on data engineer based on this languages:
+I'm walking my journey based on this languages:
 <div style= "display: inline">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />

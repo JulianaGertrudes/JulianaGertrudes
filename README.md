@@ -21,7 +21,7 @@ Cloud
 CI/CD
 
 Agile methodology
-                div>
+               < div>
 
 You can know more about my professional carrer and projects by clicking on the button below. New connections are always welcome!
 

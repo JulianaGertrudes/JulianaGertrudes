@@ -8,22 +8,11 @@
 
 ---
 
-### 💡 Building scalable and reliable data solutions
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=720&lines=Data+Engineering+with+Databricks+and+Spark;Cloud+Data+Solutions+on+Azure;Python+%7C+SQL+%7C+Analytics+at+Scale" />
-
-</div>
-
----
-
 <div align="center">
 
 ## 🔥 Languages, Frameworks & Libraries
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="140"/>
-
-<br/><br/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="55"/>
